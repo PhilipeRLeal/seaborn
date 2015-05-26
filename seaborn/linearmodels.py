@@ -655,7 +655,7 @@ lmplot.__doc__ = dedent("""\
 
     These examples focus on basic regression model plots to exhibit the
     various faceting options; see the :func:`regplot` docs for demonstrations
-    of the other options for fitting the models.
+    of the other options for plotting the data and models.
 
     Plot a simple linear relationship between two variables:
 
